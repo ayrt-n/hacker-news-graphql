@@ -52,3 +52,6 @@ end
 # Graphql
 gem "graphql", "1.11.6"
 gem "graphiql-rails", "1.7.0", group: :development
+
+# Bcrypt gem to encrypt and verify user passwords
+gem 'bcrypt', '~> 3.1.13'
