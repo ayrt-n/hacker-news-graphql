@@ -55,3 +55,6 @@ gem "graphiql-rails", "1.7.0", group: :development
 
 # Bcrypt gem to encrypt and verify user passwords
 gem 'bcrypt', '~> 3.1.13'
+
+# Search gem to make advanced FraphQL search/filter resolvers
+gem 'search_object_graphql', '0.3.1'
