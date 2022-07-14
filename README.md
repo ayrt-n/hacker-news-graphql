@@ -1,4 +1,4 @@
-# Ruby Chess
+# Hackernew Clone using GraphQL
 
 ## Overview
 
@@ -11,7 +11,7 @@ Having gained some exposure to REST APIs, I have wanted to start digging into an
 To install and test locally yourself:
 
 1. Clone this repo
-2. Instal the required gems by running
+2. Install the required gems by running
 
 ```
 $ bundle install
